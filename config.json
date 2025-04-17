@@ -1,0 +1,4 @@
+{
+  "rpc": "https://mainnet.infura.io/v3/YOUR_PROJECT_ID",
+  "etherscan_api": "YOUR_API_KEY"
+}
